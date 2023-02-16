@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+* {
+    font-family: 'Comfortaa', cursive;
+}
+
+.prim-color {
+    color: #0C2E8A;
+}
+
+.second-color {
+    color: #50D8AF;
+}
+
+.banner-img-1 {
+    background-image: url('./image/carousel/2.jpg');
+    height: 100vh;
+}
+
+.banner-img-2 {
+    background-image: url('./image/carousel/5.jpg');
+    height: 100vh;
+}
+
+.banner-img-3 {
+    background-image: url('./image/carousel/1.jpg');
+    height: 100vh;
+}
+
+.btn-prim-color {
+    background-color: #0C2E8A;
+    color: white;
+    padding: 10px;
+    border: 0;
+}
+
+.btn-second-color {
+    background-color: #50D8AF;
+    color: white;
+    padding: 10px;
+    border: 0;
+}
+.client-img{
+    width: 160px;
+}
+.bg-call{
+    background-color: #50D8AF;
+}
+.bg-footer{
+    background-color: #0C2E8A;
+    color: white;
+}
+
